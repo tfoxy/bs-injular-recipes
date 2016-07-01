@@ -1,0 +1,17 @@
+{
+  "name": "bs-injular-recipes-server",
+  "version": "1.0.0",
+  "description": "Server example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.5.7"
+  },
+  "devDependencies": {
+    "browser-sync": "~2.13.0",
+    "bs-injular": "~0.5.2"
+  }
+}
